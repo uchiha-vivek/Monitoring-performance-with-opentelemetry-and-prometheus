@@ -1,0 +1,5 @@
+opentelemetry-distro
+flask
+opentelemetry-exporter-jaeger
+opentelemetry-instrumentation-flask
+prometheus-flask-exporter
