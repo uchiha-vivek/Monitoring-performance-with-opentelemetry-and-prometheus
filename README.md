@@ -54,11 +54,11 @@ Make sure to run docker dameon :
 
 - open the docker desktop
 
-- ```bash
+ ```bash
 docker-compose up -d
 ```
 
-- Hit the following endpoint to view the **JAEGER GUI** 
+Hit the following endpoint to view the **JAEGER GUI** 
 ```http://localhost:16686/search```
 
 
