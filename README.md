@@ -1,4 +1,4 @@
-#### Understanding opentelemetry from begineer POV
+#### Understanding OpenTelemetry from begineer POV
 
 **What is opentelemetry**
 
